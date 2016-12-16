@@ -1,4 +1,4 @@
-Jane's simple tutorials for using python to do astronomical data
+Jane's ipython notebooks simple tutorials for using python to do astronomical data
 reduction and visualization, in ipython notebook format.  Files:
 
 Example pyds9.ipynb:
