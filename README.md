@@ -1,5 +1,7 @@
-Jane's ipython notebooks simple tutorials for using python to do astronomical data
-reduction and visualization, in ipython notebook format.  Files:
+Jane's ipython notebooks.  Includes some work done in NB form, as wll as some 
+simple tutorials for using python to do astronomical data reduction and visualization.  
+
+Here are the TUTORIALS:
 
 Example pyds9.ipynb:
 A simple tutorial for pyds9, to call ds9 from python.  Includes the
@@ -33,11 +35,6 @@ Here's what it does:
 LUVOIR_SFR.ipynb:
 Still in progress.  LUVOIR science case of spectroscopy of outflows from
 star-forming regions in distant galaxies.
-
-JRR_NB_example.ipynb:
-Ancient example of using ipython notebook.  Probably obselete.
-
-
 
 
 
